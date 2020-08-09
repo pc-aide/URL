@@ -2,4 +2,4 @@
 
 ## URL
 * https://testconnectivity.microsoft.com/tests/
-[<img src="https://i.imgur.com/nQkHN2R.png">](https://i.imgur.com/nQkHN2R.png)
+[<img src="https://i.imgur.com/nQkHN2R.png">](https://testconnectivity.microsoft.com/tests/o365)
